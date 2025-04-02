@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-ocusil.vercel.app
+Sitemap: https://buy-ocusil.vercel.app/sitemap.xml

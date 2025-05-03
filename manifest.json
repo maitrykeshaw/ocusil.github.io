@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Ocusil™ (Official Website) Get 50% Off + Free Shipping",
+  "short_name":"Ocusil™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Ocusil is a revolutionary dietary supplement that aids in the restoration and repair of your vision and helps you achieve 20/20 vision clarity.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
